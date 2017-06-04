@@ -138,7 +138,7 @@ int main()
 
 	// Compute Laplacian using LaplacianZC class
 	LaplacianZC laplacian;
-	laplacian.setAperture(11);
+	laplacian.setAperture(27);
 	cv::Mat flap= laplacian.computeLaplacian(image);
 
 	// display min max values of the lapalcian

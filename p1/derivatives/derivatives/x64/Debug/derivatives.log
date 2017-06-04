@@ -5,5 +5,5 @@ e:\opencv\opencv3.2_contrib\install\include\opencv2\core\utility.hpp : warning C
 e:\opencv\opencv3.2_contrib\install\include\opencv2\core\utility.hpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
 e:\opencv\opencv3.2_contrib\install\include\opencv2\imgproc.hpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
 e:\opencv\opencv3.2_contrib\install\include\opencv2\imgproc.hpp(592): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
-  derivatives.vcxproj -> D:\Google 雲端硬碟\私有\研究所\學科教材\影像分析\program\opencv code\p1\derivatives\x64\Debug\derivatives.exe
-  derivatives.vcxproj -> D:\Google 雲端硬碟\私有\研究所\學科教材\影像分析\program\opencv code\p1\derivatives\x64\Debug\derivatives.pdb (Partial PDB)
+  derivatives.vcxproj -> D:\Google 雲端硬碟\私有\研究所\學科教材\影像分析\program\opencv code\program\p1\derivatives\x64\Debug\derivatives.exe
+  derivatives.vcxproj -> D:\Google 雲端硬碟\私有\研究所\學科教材\影像分析\program\opencv code\program\p1\derivatives\x64\Debug\derivatives.pdb (Partial PDB)
